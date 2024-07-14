@@ -17,4 +17,5 @@ If the data has been tampered with, the client can recover the original data usi
 
 ## Evidence
 
+[Download and watch the video](./video-demo.mp4)
 <video src='./video-demo.mp4' controls autoPlay></video>
